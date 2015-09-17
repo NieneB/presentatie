@@ -57,6 +57,7 @@ div{
 	left: 10%;
 	margin-top:20px;
 	display: inline-block;
+    float:left;
 }
 
 #source{
