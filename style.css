@@ -10,6 +10,7 @@ body {
     /* background-size:100%;*/
     /* background-repeat: no-repeat;*/
     font-family: OpenSans-ExtraBold;
+    text-align: center;
 }
 
 body, a, a:visited {
@@ -51,11 +52,10 @@ p {
 }
 
 div{
-	position: fixed; /* or absolute */
-    top: 50%;
-    left: 50%;
+	position: relative; 
 	padding: 10px, 10px,10px,10px;
-	
+	top: 40px;
+	bottom: 40px;
 	margin-top:20px;
 	display: inline-block;
     float: center;
