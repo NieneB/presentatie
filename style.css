@@ -22,8 +22,8 @@ a{
 img{
     shadow: 4px 4px 5px #1f2123;
 	display: inline-block;
-    width: 30%;
-    height:30%;
+    width: 50%;
+    height:50%;
 }
 
 h1 {
@@ -57,12 +57,12 @@ div{
 	left: 10%;
 	margin-top:20px;
 	display: inline-block;
-    float:left;
+    float: center;
 }
 
 #source{
     position: fixed;
-    transform: rotate(270deg);
+    transform: rotate(270deg);block
     transform-origin: bottom right 0;
     -webkit-transform: rotate(270deg);
     -webkit-transform-origin: bottom right 0;
