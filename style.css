@@ -20,7 +20,9 @@ a{
 
 img{
     shadow: 4px 4px 5px #1f2123;
-	display: inline-block
+	display: inline-block;
+    width: 30%;
+    height:30%;
 }
 
 h1 {
