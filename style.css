@@ -9,6 +9,7 @@ body {
     background-blend-mode: hard-light;
     /* background-size:100%;*/
     /* background-repeat: no-repeat;*/
+    font-family: OpenSans-ExtraBold;
 }
 
 body, a, a:visited {
@@ -55,7 +56,7 @@ div{
 	top: 40px;
 	left: 10%;
 	margin-top:20px;
-	display: block;
+	display: inline-block;
 }
 
 #source{
